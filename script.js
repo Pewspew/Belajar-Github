@@ -6,4 +6,4 @@ if (umur <18 ) {
     console.log("Ga boleh masuk!")
 } else {
     console.log("oke")
-}
+};
